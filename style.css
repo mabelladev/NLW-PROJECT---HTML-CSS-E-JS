@@ -70,9 +70,9 @@ main{
  font-size: 12px;
  border-radius: 50%;
 
- display: flex;  /*permite ajustar a posição do texto no display*/
- align-items: center;   /* alinhamento do eixo x*/
- justify-content: center;  /* alinhamento do eixo y*/
+ display: flex;  
+ align-items: center;   
+ justify-content: center;  
 
  flex-shrink: 0;
 
@@ -129,7 +129,7 @@ main{
 
    }
 
-/*declaração*/
+
 #Acertos{
  text-align: center;
  background-color: #A3E635;
